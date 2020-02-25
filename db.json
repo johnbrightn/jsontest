@@ -1,40 +1,40 @@
 { 
   "response" : {
   
-  "result" : [
-      {
-        "city" : "Accra",
-        "street" : "Osu street",
-        "geo" : {
-          "lat": "4.123232123",
-          "lng": "6.123214213"
-        }
-      },
-        {
-        "city" : "Ho",
-        "street" : "Ho Street street",
-        "geo" : {
-          "lat": "9.78233247",
-          "lng": "6.2387324"
-        }
-      },
+      "result" : [
+          {
+            "city" : "Accra",
+            "street" : "Osu street",
+            "geo" : {
+              "lat": "4.123232123",
+              "lng": "6.123214213"
+            }
+          },
             {
-        "city" : "Takoradi",
-        "street" : "Takoradi Technical street",
-        "geo" : {
-          "lat": "41.989787324",
-          "lng": "69.872342343"
-        }
-      },
-            {
-        "city" : "Sunyani",
-        "street" : "Sunyani Akpakuma",
-        "geo" : {
-          "lat": "5.782397432",
-          "lng": "63.23422323"
-        }
-      }
-  ]
+            "city" : "Ho",
+            "street" : "Ho Street street",
+            "geo" : {
+              "lat": "9.78233247",
+              "lng": "6.2387324"
+            }
+          },
+                {
+            "city" : "Takoradi",
+            "street" : "Takoradi Technical street",
+            "geo" : {
+              "lat": "41.989787324",
+              "lng": "69.872342343"
+            }
+          },
+                {
+            "city" : "Sunyani",
+            "street" : "Sunyani Akpakuma",
+            "geo" : {
+              "lat": "5.782397432",
+              "lng": "63.23422323"
+            }
+          }
+      ]
 }
 
 }

@@ -1,4 +1,6 @@
-{ "response": {
+{ 
+  "response" : {
+  
   "result" : [
       {
         "city" : "Accra",
@@ -33,8 +35,6 @@
         }
       }
   ]
-}
- 
 }
 
 }
